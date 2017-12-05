@@ -1,0 +1,73 @@
+body {
+	background-image: url(https://github.com/ericsteinman/Basic-Portfolio/blob/master/assets/images/concrete_seamless.png?raw=true);
+}
+
+h1 {
+	color: #ffffff;
+	background-color: #4aaaa5;
+	width: 320px;
+	padding: 30px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2, h4 {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+a, p, .footer {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	text-decoration:  none;
+}
+
+p {
+	line-height: 200%;
+}
+
+a:hover{
+    color: #777777
+    }
+
+/* Page Wrapper */
+.container {
+	width: 960px;
+}
+
+.header {
+	background-color: #ffffff;
+}
+
+/* Nav */
+.nav {
+	padding: 30px;
+}
+
+/* About Me Wrapper */
+.about-me {
+	background-color: #ffffff;
+	padding: 30px;
+	margin: 40px auto 40px auto;
+}
+
+/* Card/Connect Wrapper */
+.card {
+	padding: 30px;
+	margin: 40px auto 40px auto;
+}
+
+/* Media */
+.picture {
+	float: left;
+	margin: 20px;
+	margin-bottom: 0px;
+}
+
+.footer {
+	background-color: #666666;
+	padding: 30px;
+	border-top-style: solid;
+	border-top-width: 10px;
+	border-color: #4aaaa5; 
+	text-align: center;
+}
